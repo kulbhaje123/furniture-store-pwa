@@ -1,0 +1,506 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Modern Fabric Sofa",
+      "price": 24999,
+      "category": "Living Room",
+      "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+      "image": "/images/modern-fabric-sofa.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Wooden Coffee Table",
+      "price": 8999,
+      "category": "Living Room",
+      "description": "Solid wood coffee table with minimalist design.",
+      "image": "/images/wooden-coffee-table.jpg"
+    },
+    {
+      "id": "3",
+      "name": "6-Seater Dining Table",
+      "price": 34999,
+      "category": "Dining",
+      "description": "Elegant dining set crafted from engineered wood.",
+      "image": "/images/dining-table.jpg"
+    },
+    {
+      "id": "4",
+      "name": "King Size Storage Bed",
+      "price": 45999,
+      "category": "Bedroom",
+      "description": "King-size bed with hydraulic storage and headboard.",
+      "image": "/images/king-size-storage-bed.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Sliding Door Wardrobe",
+      "price": 28999,
+      "category": "Bedroom",
+      "description": "Spacious wardrobe with mirror and sliding doors.",
+      "image": "/images/sliding-door-wardrobe.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Study Desk",
+      "price": 11999,
+      "category": "Office",
+      "description": "Work-from-home desk with storage drawers.",
+      "image": "/images/study-desk.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Ergonomic Office Chair",
+      "price": 7999,
+      "category": "Office",
+      "description": "Adjustable office chair with lumbar support.",
+      "image": "/images/ergonomic-office-chair.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Wooden Bookshelf",
+      "price": 14999,
+      "category": "Storage",
+      "description": "5-tier open bookshelf for books and décor.",
+      "image": "/images/wooden-bookshelf.jpg"
+    },
+    {
+      "id": "9",
+      "name": "TV Entertainment Unit",
+      "price": 18999,
+      "category": "Living Room",
+      "description": "Modern TV unit with ample storage space.",
+      "image": "/images/tv-entertainment-unit.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Leather Recliner",
+      "price": 22999,
+      "category": "Living Room",
+      "description": "Premium recliner with adjustable footrest.",
+      "image": "/images/leather-recliner.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Shoe Storage Cabinet",
+      "price": 6999,
+      "category": "Storage",
+      "description": "Compact shoe cabinet for entryways.",
+      "image": "/images/shoe-storage-cabinet.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Bedside Table",
+      "price": 4999,
+      "category": "Bedroom",
+      "description": "Modern nightstand with drawer storage.",
+      "image": "/images/bedside-table.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "Z3_bCVguGvc",
+      "productId": "9",
+      "product": {
+        "id": "9",
+        "name": "TV Entertainment Unit",
+        "price": 18999,
+        "category": "Living Room",
+        "description": "Modern TV unit with ample storage space.",
+        "image": "/images/tv-entertainment-unit.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "2QxtKZ4WsRg",
+      "productId": "9",
+      "product": {
+        "id": "9",
+        "name": "TV Entertainment Unit",
+        "price": 18999,
+        "category": "Living Room",
+        "description": "Modern TV unit with ample storage space.",
+        "image": "/images/tv-entertainment-unit.jpg"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "UhZrKiUPLyA",
+      "productId": "9",
+      "product": {
+        "id": "9",
+        "name": "TV Entertainment Unit",
+        "price": 18999,
+        "category": "Living Room",
+        "description": "Modern TV unit with ample storage space.",
+        "image": "/images/tv-entertainment-unit.jpg"
+      },
+      "quantity": 3
+    },
+    {
+      "id": "nFOFx4i3juc",
+      "productId": "10",
+      "product": {
+        "id": "10",
+        "name": "Leather Recliner",
+        "price": 22999,
+        "category": "Living Room",
+        "description": "Premium recliner with adjustable footrest.",
+        "image": "/images/leather-recliner.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "TrcBTew-mIA",
+      "productId": "10",
+      "product": {
+        "id": "10",
+        "name": "Leather Recliner",
+        "price": 22999,
+        "category": "Living Room",
+        "description": "Premium recliner with adjustable footrest.",
+        "image": "/images/leather-recliner.jpg"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "oMpUlyfPzgA",
+      "productId": "10",
+      "product": {
+        "id": "10",
+        "name": "Leather Recliner",
+        "price": 22999,
+        "category": "Living Room",
+        "description": "Premium recliner with adjustable footrest.",
+        "image": "/images/leather-recliner.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "8f77dv-ZP1U",
+      "productId": "2",
+      "product": {
+        "id": "2",
+        "name": "Wooden Coffee Table",
+        "price": 8999,
+        "category": "Living Room",
+        "description": "Solid wood coffee table with minimalist design.",
+        "image": "/images/wooden-coffee-table.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "3VaNZQDSnJs",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "Jxi8FEcy6iM",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "rLufpDQeBK0",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 3
+    },
+    {
+      "id": "W-3bnmKEKbU",
+      "productId": "2",
+      "product": {
+        "id": "2",
+        "name": "Wooden Coffee Table",
+        "price": 8999,
+        "category": "Living Room",
+        "description": "Solid wood coffee table with minimalist design.",
+        "image": "/images/wooden-coffee-table.jpg"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "31MKmqqPRYM",
+      "productId": "2",
+      "product": {
+        "id": "2",
+        "name": "Wooden Coffee Table",
+        "price": 8999,
+        "category": "Living Room",
+        "description": "Solid wood coffee table with minimalist design.",
+        "image": "/images/wooden-coffee-table.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "JdZYkrWKvDg",
+      "productId": "12",
+      "product": {
+        "id": "12",
+        "name": "Bedside Table",
+        "price": 4999,
+        "category": "Bedroom",
+        "description": "Modern nightstand with drawer storage.",
+        "image": "/images/bedside-table.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "m9_-EqDsIio",
+      "productId": "4",
+      "product": {
+        "id": "4",
+        "name": "King Size Storage Bed",
+        "price": 45999,
+        "category": "Bedroom",
+        "description": "King-size bed with hydraulic storage and headboard.",
+        "image": "/images/king-size-storage-bed.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "CpibYRV5QDI",
+      "productId": "3",
+      "product": {
+        "id": "3",
+        "name": "6-Seater Dining Table",
+        "price": 34999,
+        "category": "Dining",
+        "description": "Elegant dining set crafted from engineered wood.",
+        "image": "/images/dining-table.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "hi_CNvJOZZY",
+      "productId": "12",
+      "product": {
+        "id": "12",
+        "name": "Bedside Table",
+        "price": 4999,
+        "category": "Bedroom",
+        "description": "Modern nightstand with drawer storage.",
+        "image": "/images/bedside-table.jpg"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "1zd-pt6tHSM",
+      "productId": "12",
+      "product": {
+        "id": "12",
+        "name": "Bedside Table",
+        "price": 4999,
+        "category": "Bedroom",
+        "description": "Modern nightstand with drawer storage.",
+        "image": "/images/bedside-table.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "epc-QkNMxWE",
+      "productId": "12",
+      "product": {
+        "id": "12",
+        "name": "Bedside Table",
+        "price": 4999,
+        "category": "Bedroom",
+        "description": "Modern nightstand with drawer storage.",
+        "image": "/images/bedside-table.jpg"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "Me9SP-Yt360",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "Lx7HJJPqWbI",
+      "productId": "6",
+      "product": {
+        "id": "6",
+        "name": "Study Desk",
+        "price": 11999,
+        "category": "Office",
+        "description": "Work-from-home desk with storage drawers.",
+        "image": "/images/study-desk.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "s6N4HcYkcvs",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "lYccCkCPA8Y",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "rz1k9FZLETQ",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "y_sGa0JRh_E",
+      "productId": "3",
+      "product": {
+        "id": "3",
+        "name": "6-Seater Dining Table",
+        "price": 34999,
+        "category": "Dining",
+        "description": "Elegant dining set crafted from engineered wood.",
+        "image": "/images/dining-table.jpg"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "gw8MC1HAeXc",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "Mz9T0Sj2m2o",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "gXBkb0H-KOo",
+      "productId": "3",
+      "product": {
+        "id": "3",
+        "name": "6-Seater Dining Table",
+        "price": 34999,
+        "category": "Dining",
+        "description": "Elegant dining set crafted from engineered wood.",
+        "image": "/images/dining-table.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "Gu3JK1y1rzw",
+      "productId": "2",
+      "product": {
+        "id": "2",
+        "name": "Wooden Coffee Table",
+        "price": 8999,
+        "category": "Living Room",
+        "description": "Solid wood coffee table with minimalist design.",
+        "image": "/images/wooden-coffee-table.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "QnF2lRYlTX0",
+      "productId": "8",
+      "product": {
+        "id": "8",
+        "name": "Wooden Bookshelf",
+        "price": 14999,
+        "category": "Storage",
+        "description": "5-tier open bookshelf for books and décor.",
+        "image": "/images/wooden-bookshelf.jpg"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "z1f8RUeLgdM",
+      "productId": "1",
+      "product": {
+        "id": "1",
+        "name": "Modern Fabric Sofa",
+        "price": 24999,
+        "category": "Living Room",
+        "description": "Comfortable 3-seater sofa with premium fabric upholstery.",
+        "image": "/images/modern-fabric-sofa.jpg"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "3qkPKYmSdKc",
+      "productId": "2",
+      "product": {
+        "id": "2",
+        "name": "Wooden Coffee Table",
+        "price": 8999,
+        "category": "Living Room",
+        "description": "Solid wood coffee table with minimalist design.",
+        "image": "/images/wooden-coffee-table.jpg"
+      },
+      "quantity": 2
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
